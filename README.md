@@ -9,6 +9,10 @@ This project is a RESTful API built using Express.js, providing functionalities 
 - **DeleteNote**: Allows authenticated users to delete their notes.
 - **GetNote**: Allows authenticated users to retrieve their notes.
 
+## Deployment
+
+The deployment process for the Notes API is currently underway. Stay tuned for updates on the deployment status and instructions on how to access the API once it's deployed. If you have any questions or inquiries regarding deployment, feel free to reach out. Thank you for your patience!
+
 ## Installation
 
 1. Clone this repository to your local machine:
